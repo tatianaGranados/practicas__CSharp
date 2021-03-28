@@ -1,0 +1,6 @@
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.exe.config
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.exe
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.pdb
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\obj\Debug\PracticaPOO.exe
+D:\clases C#\practicas\PracticaPOO\PracticaPOO\PracticaPOO\obj\Debug\PracticaPOO.pdb
