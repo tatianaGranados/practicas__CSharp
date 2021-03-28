@@ -9,7 +9,6 @@ namespace Ejercicio2
     public class Libro
     {
        
-        
         public Libro(){
         }
 
@@ -49,10 +48,12 @@ namespace Ejercicio2
             return devuelto;
         }
 
-        public  string ToString()
+        public override string ToString()
         {
-
+            return "titulo"+ TituloLibro + "<br> autor:" + Autor ;
         }
+
+
 
         public string TituloLibro{ get; set; }
         public string Autor { get; set; }
